@@ -1,0 +1,29 @@
+
+
+.col-sm-8{
+    border-left: solid black;
+}
+
+body{
+    background-color: black;
+
+}
+
+img{
+    width:100%;
+}
+
+.upRight{
+    
+    padding-left: 3rem;;
+}
+
+.col-sm-4{
+    padding-top:5rem;
+}
+
+h1{
+    font-size: 50px;
+    font-family: Georgia;
+    color: white;
+}

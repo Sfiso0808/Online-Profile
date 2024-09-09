@@ -1,0 +1,45 @@
+img{
+    
+    border-radius: 500px;
+    height: 60%;
+    width: auto;
+   
+}
+
+.container{
+    min-height: 85vh;
+    color: white;
+    font-family: Lora;
+   
+    /* padding-top: 5rem; */
+    flex: 12rem;
+}
+
+.col-sm-8 {
+    align-items: center;
+    text-align: center;
+
+    padding: 3rem;;
+    
+}
+
+.col-sm-4{
+    align-items: center;
+    text-align: center;
+   
+}
+ body{
+     background-color:black
+     
+ }
+
+
+ .con1{
+     margin: 0;
+     margin-top: 0;
+    
+ }
+ 
+ h1{
+     font-family: Elephant;
+ }
